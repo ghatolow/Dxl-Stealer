@@ -1,0 +1,4 @@
+requests
+customtkinter
+customtkinter
+packaging
