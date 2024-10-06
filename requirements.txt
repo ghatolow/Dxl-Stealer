@@ -1,9 +1,0 @@
-requests
-pycryptodome
-pyinstaller
-customtkinter
-pycryptodome
-Crypto
-packaging
-tk
-wmi
