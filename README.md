@@ -104,7 +104,7 @@ Dxl
 <h2 id="screenshots">Screenshots 📸</h2>
 <img src="https://github.com/ghatolow/Dxl-Stealer/blob/main/Screenshots/igt3sajg.jpeg"Application Screenshot">
 <img src="https://github.com/ghatolow/Dxl-Stealer/blob/main/Screenshots/dm1zrMc0.jpeg" alt="Application Screenshot">
-
+<img src="https://github.com/ghatolow/Dxl-Stealer/blob/main/Screenshots/bDhexYag.jpg" alt="Application Screenshot">
 
 ## Stub Settings
 
