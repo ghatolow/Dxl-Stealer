@@ -69,8 +69,7 @@ Dxl
     • Custom Icon.
     • Runs On Startup.
     • Disables Windows Defender.
-    
-  
+     • Disables VPN
     • Melt Stub.
     • Fake Error.
     • EXE Binder.
@@ -82,16 +81,13 @@ Dxl
     • Steals Epic Session.
     • Steals Uplay Session.
     • Steals Battle.net Session
-    • Steals Passwords From Many Browsers.
-    • Steals Cookies From Many Browsers.
-    • Steals History From Many Browsers.
-    • Steals Autofills From Many Browsers.
+    • Steals Browser Data.
     • Steals Minecraft Session Files.
     • Steals Telegram Session Files.
     • Steals Crypto Wallets.
-    • Steals Roblox Cookies.
+    • Steals Roblox.
     • Steals Growtopia Session.
-    • Steals IP Information.
+    • Steals IP Grab.
     • Steals System Info.
     • Steals Saved Wifi Passwords.
     • File Grabber By dxl.
@@ -106,7 +102,7 @@ Dxl
 <img src="https://github.com/ghatolow/Dxl-Stealer/blob/main/Screenshots/igt3sajg.jpeg"Application Screenshot">
 <img src="https://github.com/ghatolow/Dxl-Stealer/blob/main/Screenshots/dm1zrMc0.jpeg" alt="Application Screenshot">
 <img src="https://github.com/ghatolow/Dxl-Stealer/blob/main/Screenshots/bDhexYag.jpg" alt="Application Screenshot">
-<img src="https://github.com/ghatolow/Dxl-Stealer/blob/main/Screenshots/vyMyZNS9.jpg" alt="Application Screenshot">
+<img src="https://github.com/ghatolow/Dxl-Stealer/blob/main/Screenshots/skjUShb3.jpg" alt="Application Screenshot">
 ## Stub Settings
 
 | Option | Description |
