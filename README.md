@@ -31,8 +31,9 @@
     • Custom Icon.
     • Runs On Startup.
     • Disables Windows Defender.
-    
-  
+    • Bypass VPN/PROXY
+    • Rockstar Games Session
+    • Clipper inject
     • Melt Stub.
     • Fake Error.
     • File Pumper.
