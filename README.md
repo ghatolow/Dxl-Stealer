@@ -67,7 +67,7 @@
 <img src="https://github.com/ghatolow/Dxl-Stealer/blob/main/Screenshots/igt3sajg.jpeg"Application Screenshot">
 <img src="https://github.com/ghatolow/Dxl-Stealer/blob/main/Screenshots/dm1zrMc0.jpeg" alt="Application Screenshot">
 <img src="https://github.com/ghatolow/Dxl-Stealer/blob/main/Screenshots/bDhexYag.jpg" alt="Application Screenshot">
-<img src="https://github.com/ghatolow/Dxl-Stealer/blob/main/Screenshots/vyMyZNS9.jpg" alt="Application Screenshot">
+<img src="https://github.com/ghatolow/Dxl-Stealer/blob/main/Screenshots/skjUShb3.jpg" alt="Application Screenshot">
 ## Stub Settings
 
 | Settings |
