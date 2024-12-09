@@ -70,7 +70,7 @@
 <img src="https://github.com/ghatolow/Dxl-Stealer/blob/main/Screenshots/vyMyZNS9.jpg" alt="Application Screenshot">
 ## Stub Settings
 
-| Settings⚙️ |
+| Settings |
 | ------ | ----------- |
 | **Ping Me** | Pings [@everyone](https://www.remote.tools/remote-work/discord-everyone-here#what-is-everyone) when someone runs the stub. |
 | **Anti VM** | Tries its best to prevent the stub from running on Virtual Machine. |
